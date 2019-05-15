@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT the_get_well_company_3421.wsgi:application
